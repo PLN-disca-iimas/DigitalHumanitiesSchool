@@ -1,2 +1,2 @@
-# DigitalHumanitiesSchool
-Summer School on Digital Humanities
+# Summer School on Digital Humanities
+
