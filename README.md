@@ -11,3 +11,7 @@ Andric Valdez
   Tutorial: [Jupyter Notebook](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/text2GraphAPI.ipynb)
 
 Ljudmila Petkovic: [Mining of the heritage funds in medical domain](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/Circulations_UNAM2023.pdf)
+
+Helena Gómez: 
+Introduction to transformers [Presentation](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/intro-Attention-transformers.pdf)
+Tutorial [Jupyter Notebook](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/demo_transformers_classification.ipynb)
