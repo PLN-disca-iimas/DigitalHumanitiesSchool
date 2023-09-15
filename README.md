@@ -19,3 +19,5 @@ Tutorial [Jupyter Notebook](https://github.com/PLN-disca-iimas/DigitalHumanities
 Benjamin Piwowarski:
 Language Generation [Presentation](https://teaching.piwowarski.fr/talks/2023/unam-scai/main.html?print-pdf#/)
 Tutorial [Jupyter Notebook](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/UNAM_2023_Generation.ipynb)
+
+Caroline Koudoro and Gaël Lejeune: [OCR impact on NER](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/Koudoro-Parfait_Lejeune.pdf)
