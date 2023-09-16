@@ -16,13 +16,13 @@ Ljudmila Petkovic: [Mining of the heritage funds in medical domain](https://gith
 
 ## Second Day
 
-Helena Gómez: 
-Introduction to transformers [Presentation](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/intro-Attention-transformers.pdf)
-Tutorial [Jupyter Notebook](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/demo_transformers_classification.ipynb)
-
 Benjamin Piwowarski:
 Language Generation [Presentation](https://teaching.piwowarski.fr/talks/2023/unam-scai/main.html?print-pdf#/)
 Tutorial [Jupyter Notebook](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/UNAM_2023_Generation.ipynb)
+
+Helena Gómez: 
+Introduction to transformers [Presentation](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/intro-Attention-transformers.pdf)
+Tutorial [Jupyter Notebook](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/demo_transformers_classification.ipynb)
 
 Caroline Koudoro and Gaël Lejeune: [OCR impact on NER](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/Koudoro-Parfait_Lejeune.pdf)
 
