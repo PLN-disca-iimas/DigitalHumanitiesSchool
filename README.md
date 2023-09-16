@@ -21,3 +21,5 @@ Language Generation [Presentation](https://teaching.piwowarski.fr/talks/2023/una
 Tutorial [Jupyter Notebook](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/UNAM_2023_Generation.ipynb)
 
 Caroline Koudoro and Gaël Lejeune: [OCR impact on NER](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/Koudoro-Parfait_Lejeune.pdf)
+
+Orlando Ramos and Rodrigo del Moral: Clinical Language Model [Presentation](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/Clinical%20language%20model%20on%20Mexican%20medical%20records.pdf) Tutorial [Jupyter Notebook](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/demo_transformers_for_medical_entity_detection.ipynb)
