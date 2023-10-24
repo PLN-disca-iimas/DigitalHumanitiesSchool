@@ -14,7 +14,7 @@ Andric Valdez
 
 Ljudmila Petkovic: [Mining of the heritage funds in medical domain](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/Circulations_UNAM2023.pdf)
 
-Motasem Alrahabi: The Role of Emotions [Presentation](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/Motasem%20Alrahabi-Emotions.pdf), Pandore Toolbox [Poster](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/Pandore_Poster.pdf)
+Motasem Alrahabi: The Role of Emotions, Pandore Toolbox [Poster](https://github.com/PLN-disca-iimas/DigitalHumanitiesSchool/blob/main/Pandore_Poster.pdf)
 
 ## Second Day
 
